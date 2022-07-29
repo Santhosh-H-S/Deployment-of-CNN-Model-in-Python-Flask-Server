@@ -35,7 +35,7 @@ run_with_ngrok(app)
 
 
 # Model saved with Keras model.save()
-MODEL_PATH = '/content/drive/My Drive/Colab Notebooks/Mini_Project/Models/VGG19.h5'
+MODEL_PATH = 'VGG19.h5'
 
 
 # Load your trained model
